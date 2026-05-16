@@ -1,3 +1,4 @@
+# https://blog.miguelgrinberg.com/post/the-flask-mega-tutorial-part-i-hello-world
 import sqlalchemy as sa
 import sqlalchemy.orm as so
 from app import app,db
